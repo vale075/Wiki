@@ -34,7 +34,7 @@ dateCreated: 2021-05-25T01:24:18.386Z
 
 - So you're looking to add a new movie this is the page that you will be wanting to do that from.
   - You'll find the how to on going through that in our [Quick Start Guide](/radarr/quick-start-guide)
-- Below the search field you can also find the Import Existing Movies button. If that is the case for you you can find great infomration on that also in our [Quick Start Guide](/radarr/quick-start-guide)
+- Below the search field you can also find the Import Existing Movies button. If that is the case for you you can find great information on that also in our [Quick Start Guide](/radarr/quick-start-guide)
 
 ## Library Import
 
